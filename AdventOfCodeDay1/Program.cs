@@ -27,7 +27,6 @@ namespace AdventOfCodeDay1
                     string concatenated = firstInt.ToString() + secondInt.ToString();
 
                     int result = int.Parse(concatenated);
-                    Console.WriteLine(result);
                     listOfNumbers.Add(result);
 
             }
